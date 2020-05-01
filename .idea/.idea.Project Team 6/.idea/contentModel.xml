@@ -16,8 +16,11 @@
         <e p="packages.config" t="Include" />
         <e p="PageObjects" t="Include">
           <e p="AuthorizationPageObject.cs" t="Include" />
+          <e p="ContactPageObject.cs" t="Include" />
           <e p="MainPageObject.cs" t="Include" />
           <e p="RegistrationPageObject.cs" t="Include" />
+          <e p="ShoppingCartPageObject.cs" t="Include" />
+          <e p="TShirtPageObject.cs" t="Include" />
         </e>
         <e p="Project Team 6.csproj" t="IncludeRecursive" />
         <e p="Properties" t="Include">
@@ -25,7 +28,7 @@
         </e>
         <e p="Test" t="Include">
           <e p="BaseTest.cs" t="Include" />
-          <e p="Tests.cs" t="Include" />
+          <e p="TestOstap.cs" t="Include" />
         </e>
       </e>
       <e p="Project Team 6.sln" t="IncludeFlat" />

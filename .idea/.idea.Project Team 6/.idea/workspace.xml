@@ -2,71 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dac9ce7-31f8-4694-89c1-668b7dc415dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/FrameWork/WaitUntil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/AuthorizationPageObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/RegistrationPageObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/Project Team 6.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/Test/Tests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/DotNetSeleniumExtras.WaitHelpers.3.11.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/DotNetSeleniumExtras.WaitHelpers.3.11.0/DotNetSeleniumExtras.WaitHelpers.3.11.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/DotNetSeleniumExtras.WaitHelpers.3.11.0/lib/net35/SeleniumExtras.WaitHelpers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/DotNetSeleniumExtras.WaitHelpers.3.11.0/lib/net40/SeleniumExtras.WaitHelpers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/DotNetSeleniumExtras.WaitHelpers.3.11.0/lib/net45/SeleniumExtras.WaitHelpers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/DotNetSeleniumExtras.WaitHelpers.3.11.0/lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/CHANGES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NOTICES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/NUnit.3.5.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/dotnet/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/NUnit.System.Linq.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net20/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net35/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net40/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/net45/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/NUnit.3.5.0/lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.4.0.0-alpha05/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.4.0.0-alpha05/Selenium.Support.4.0.0-alpha05.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.4.0.0-alpha05/lib/net45/WebDriver.Support.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.4.0.0-alpha05/lib/net46/WebDriver.Support.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.4.0.0-alpha05/lib/net47/WebDriver.Support.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.Support.4.0.0-alpha05/lib/netstandard2.0/WebDriver.Support.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/Selenium.WebDriver.4.0.0-alpha05.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/lib/net45/WebDriver.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/lib/net45/WebDriver.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/lib/net46/WebDriver.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/lib/net46/WebDriver.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/lib/net47/WebDriver.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/lib/net47/WebDriver.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.4.0.0-alpha05/lib/netstandard2.0/WebDriver.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.81.0.4044.6900/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.81.0.4044.6900/Selenium.WebDriver.ChromeDriver.81.0.4044.6900.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.81.0.4044.6900/build/Selenium.WebDriver.ChromeDriver.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.81.0.4044.6900/driver/linux64/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.81.0.4044.6900/driver/mac64/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.81.0.4044.6900/driver/win32/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Project Team 6.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Project Team 6.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/Tests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +27,11 @@
     <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/RegistrationPageObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/AuthorizationPageObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Project Team 6/Test/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/FrameWork/WaitUntil.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -89,13 +39,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Project Team 6/FrameWork/WaitUntil.cs" />
-        <option value="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/MainPage.cs" />
-        <option value="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/AuthorizationPageObject.cs" />
-        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/RegistrationPageObject.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/Test/Tests.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCart.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" />
       </list>
     </option>
   </component>
@@ -124,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588357826294</updated>
-      <workItem from="1588357827748" duration="2029000" />
+      <workItem from="1588357827748" duration="12694000" />
     </task>
     <servers />
   </component>
@@ -133,4 +88,25 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="229" key="VCS.ChangeListViewerDialog" timestamp="1588367639725">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="594" y="229" key="VCS.ChangeListViewerDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588367639725" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1588363077859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1588363077859" />
+  </component>
 </project>

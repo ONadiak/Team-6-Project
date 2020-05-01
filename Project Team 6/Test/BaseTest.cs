@@ -2,6 +2,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using PrestaShop.Services;
+using Project_Team_6.PageObjects;
 
 namespace PrestaShop
 {
@@ -13,6 +14,7 @@ namespace PrestaShop
         protected void DoBeforeAllTests()
         {
             WebDriver = new ChromeDriver();
+            
         }
         
         [OneTimeTearDown]

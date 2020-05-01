@@ -58,11 +58,14 @@
         <Compile Include="FrameWork\UserNamesForTest.cs" />
         <Compile Include="FrameWork\WaitUntil.cs" />
         <Compile Include="PageObjects\AuthorizationPageObject.cs" />
+        <Compile Include="PageObjects\ContactPageObject.cs" />
         <Compile Include="PageObjects\MainPageObject.cs" />
         <Compile Include="PageObjects\RegistrationPageObject.cs" />
+        <Compile Include="PageObjects\ShoppingCartPageObject.cs" />
+        <Compile Include="PageObjects\TShirtPageObject.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
         <Compile Include="Test\BaseTest.cs" />
-        <Compile Include="Test\Tests.cs" />
+        <Compile Include="Test\TestOstap.cs" />
     </ItemGroup>
     <ItemGroup>
       <None Include="packages.config" />

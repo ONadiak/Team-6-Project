@@ -1,0 +1,13 @@
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\obj\Debug\Project Team 6.csprojAssemblyReference.cache
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\obj\Debug\Project Team 6.csproj.CoreCompileInputs.cache
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\Project_Team_6.dll
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\Project_Team_6.pdb
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\nunit.framework.dll
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\WebDriver.dll
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\WebDriver.Support.dll
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\nunit.framework.xml
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\WebDriver.xml
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\obj\Debug\Project Team 6.csproj.CopyComplete
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\obj\Debug\Project_Team_6.dll
+C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\obj\Debug\Project_Team_6.pdb
