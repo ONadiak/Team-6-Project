@@ -12,7 +12,7 @@ namespace PrestaShop.Services
         public static string ExpectedResultForRemoved2 { get; } = "There are no more items in your cart";
         public static string emeil { get; } = "nadiak@gmail.com";
         public static string exemple { get; } = "Exemple of ' What we can help you ";
-        public static string IsSended { get; } = " Ваше повідомлення успішно надіслано. ";
+        public static string IsSended { get; } = "Ваше повідомлення успішно надіслано.";
 
 
     }

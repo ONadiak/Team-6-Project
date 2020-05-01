@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dac9ce7-31f8-4694-89c1-668b7dc415dc" name="Default Changelist" comment="" />
+    <list default="true" id="0dac9ce7-31f8-4694-89c1-668b7dc415dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/bin/Debug/Project_Team_6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/bin/Debug/Project_Team_6.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/bin/Debug/Project_Team_6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/bin/Debug/Project_Team_6.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project_Team_6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project_Team_6.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project_Team_6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project_Team_6.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +43,9 @@
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" />
-        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" />
       </list>
     </option>
   </component>
@@ -66,21 +74,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588357826294</updated>
-      <workItem from="1588357827748" duration="13252000" />
+      <workItem from="1588357827748" duration="13474000" />
+      <workItem from="1588372548011" duration="916000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -91,6 +102,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="594" y="229" key="VCS.ChangeListViewerDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588367639725" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1588372944150">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588372944150" />
     <state x="616" y="243" key="run.anything.popup" timestamp="1588363077859">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

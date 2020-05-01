@@ -6,7 +6,7 @@ namespace Project_Team_6.PageObjects
     public class ContactPageObject
     {
         private IWebDriver _webDriver;
-        private readonly By _emeilField =By.XPath("//select[@class='form-control form-control-select']");
+        private readonly By _emeilField =By.Name("from");
         private readonly By _helpField = By.XPath("//textarea[@class='form-control']");
         private readonly By _sendButton = By.XPath("//input[@class='btn btn-primary']");
         private readonly By _isSended = By.XPath("//div[@class='col-xs-12 alert alert-success']");
