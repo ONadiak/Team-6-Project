@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dac9ce7-31f8-4694-89c1-668b7dc415dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Team 6/Project Team 6.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Project Team 6.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/Tests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" afterDir="false" />
-    </list>
+    <list default="true" id="0dac9ce7-31f8-4694-89c1-668b7dc415dc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588357826294</updated>
-      <workItem from="1588357827748" duration="12950000" />
+      <workItem from="1588357827748" duration="13252000" />
     </task>
     <servers />
   </component>
