@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dac9ce7-31f8-4694-89c1-668b7dc415dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Team 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/FrameWork/Selenium.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/FrameWork/Selenium.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/FrameWork/Settings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/FrameWork/DataForTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/FrameWork/Wait.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/FrameWork/WaitUntil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/FrameWork/WaitUntil.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/AutenticationPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/AutenticationPage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/AuthorizationPageObject.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/MainPage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/RegistrationPageObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/RowMenuPage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Project Team 6.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Project Team 6.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/MenuValidationTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Test/MenuValidationTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/SearchValidationTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Test/SearchValidationTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/Test.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Test/Test.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project Team 6/bin/Debug/Project_Team_6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/bin/Debug/Project_Team_6.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project Team 6/bin/Debug/Project_Team_6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/bin/Debug/Project_Team_6.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project Team 6.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project_Team_6.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project_Team_6.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project_Team_6.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Project Team 6/obj/Debug/Project_Team_6.pdb" afterDir="false" />
@@ -19,33 +41,43 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/RegistrationPageObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/AuthorizationPageObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/AutenticationPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/PageObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/Test/Test.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/Test/MenuValidationTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/Test/SearchValidationTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Project Team 6/FrameWork/WaitUntil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/FrameWork/Selenium.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/FrameWork/DataForTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Project Team 6/FrameWork/WaitUntil.cs" />
-        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/MainPage.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/AuthorizationPageObject.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/RegistrationPageObject.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/Test/Tests.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCart.cs" />
-        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" />
-        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" />
-        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/Test/BaseTest.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/Test/TestOstap.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/FrameWork/UserNamesForTest.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/Test/Test.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/FrameWork/Selenium.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/FrameWork/WaitUntil.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/AutenticationPage.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/Test/SearchValidationTest.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/MainPage.cs" />
         <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ContactPageObject.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/MainPageObject.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/ShoppingCartPageObject.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/PageObjects/TShirtPageObject.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/Test/MenuValidationTest.cs" />
+        <option value="$PROJECT_DIR$/Project Team 6/FrameWork/DataForTests.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +108,7 @@
       <updated>1588357826294</updated>
       <workItem from="1588357827748" duration="13474000" />
       <workItem from="1588372548011" duration="916000" />
+      <workItem from="1588498811063" duration="2154000" />
     </task>
     <servers />
   </component>
@@ -102,10 +135,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="594" y="229" key="VCS.ChangeListViewerDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588367639725" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1588372944150">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1588501051190">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588372944150" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588501051190" />
+    <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588501146772">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588501146772" />
     <state x="616" y="243" key="run.anything.popup" timestamp="1588363077859">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

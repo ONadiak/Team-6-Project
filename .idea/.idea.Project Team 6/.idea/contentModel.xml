@@ -3,22 +3,28 @@
   <component name="ContentModelStore">
     <e p="C:\Users\nadia\.Rider2019.3\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\nadia\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\nadia\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Project Team 6.484464482.00" t="ExcludeRecursive" />
-    <e p="C:\Users\nadia\RiderProjects\Project Team 6" t="IncludeFlat">
-      <e p="packages" t="ExcludeRecursive" />
+    <e p="C:\Users\nadia\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Project Team 6.-205072022.00" t="ExcludeRecursive" />
+    <e p="C:\Users\nadia\RiderProjects\Team-6-Project" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive">
+        <e p="NUnit3TestAdapter.3.16.1\build\net35\nunit.engine.api.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.16.1\build\net35\nunit.engine.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.16.1\build\net35\NUnit3.TestAdapter.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.16.1\build\net35\NUnit3.TestAdapter.pdb" t="Include" />
+      </e>
       <e p="Project Team 6" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="FrameWork" t="Include">
-          <e p="UserNamesForTest.cs" t="Include" />
+          <e p="DataForTests.cs" t="Include" />
+          <e p="Selenium.cs" t="Include" />
           <e p="WaitUntil.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="PageObjects" t="Include">
-          <e p="AuthorizationPageObject.cs" t="Include" />
+          <e p="AutenticationPage.cs" t="Include" />
           <e p="ContactPageObject.cs" t="Include" />
           <e p="MainPageObject.cs" t="Include" />
-          <e p="RegistrationPageObject.cs" t="Include" />
+          <e p="PageObject.cs" t="Include" />
           <e p="ShoppingCartPageObject.cs" t="Include" />
           <e p="TShirtPageObject.cs" t="Include" />
         </e>
@@ -28,6 +34,9 @@
         </e>
         <e p="Test" t="Include">
           <e p="BaseTest.cs" t="Include" />
+          <e p="MenuValidationTest.cs" t="Include" />
+          <e p="SearchValidationTest.cs" t="Include" />
+          <e p="Test.cs" t="Include" />
           <e p="TestOstap.cs" t="Include" />
         </e>
       </e>

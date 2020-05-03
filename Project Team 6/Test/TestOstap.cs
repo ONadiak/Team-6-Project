@@ -17,7 +17,7 @@ namespace PrestaShop
                 .AddToCart()
                 .CheckIsTShirtAdded();
             string actualResult = orderMenu.CheckIsTShirtAdded();
-            Assert.AreEqual(UserNameForTest.ExpectedResultForAdded2,actualResult, "Adding is wrong or wasn't completed");
+            Assert.AreEqual(DataForTest.ExpectedResultForAdded2,actualResult, "Adding is wrong or wasn't completed");
         }
 
         [Test]
@@ -30,7 +30,7 @@ namespace PrestaShop
                 .AddToCart()
                 .RemoveOrder();
             string actualResult = orderMenu.CheckIsOrderRemoved();
-            Assert.AreEqual(UserNameForTest.ExpectedResultForRemoved, actualResult,"Removing is wrong or wasn't completed");
+            Assert.AreEqual(DataForTest.ExpectedResultForRemoved, actualResult,"Removing is wrong or wasn't completed");
         }
 
         [Test]
@@ -42,7 +42,7 @@ namespace PrestaShop
                 .ClickOnContactButton()
                 .SendingContactList();
             string actualResult = orderMenu.CheckIsSended();
-            Assert.AreEqual(UserNameForTest.IsSended, actualResult, " Sending is wrong or wasn't completed ");
+            Assert.AreEqual(DataForTest.IsSended, actualResult, " Sending is wrong or wasn't completed ");
 
         }
 

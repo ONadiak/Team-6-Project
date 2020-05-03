@@ -28,8 +28,8 @@ namespace PrestaShop
         {
             WebDriver.Manage().Cookies.DeleteAllCookies();
             WebDriver.Manage().Window.Maximize();
-            WebDriver.Navigate().GoToUrl(UserNameForTest.Link);
-            WaitUntil.ShouldLocate(WebDriver, UserNameForTest.Link);
+            WebDriver.Navigate().GoToUrl(DataForTest.Link);
+            WaitUntil.ShouldLocate(WebDriver, DataForTest.Link);
         }
 
     }

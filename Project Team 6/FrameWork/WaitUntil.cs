@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using System.Threading.Tasks;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
@@ -31,6 +32,19 @@ namespace PrestaShop.Services
             new WebDriverWait(webDriver, TimeSpan.FromSeconds(seconds)).Until(
                 ExpectedConditions.ElementToBeClickable(locator));
 
+        }
+        public static bool WaitFor(Func<bool> func, int Timeout = 250, int waitInternal = 50)
+        {
+            DateTime start = DateTime.Now;
+            do
+            {
+                if (func())
+                {
+                    return true;
+                }
+                Thread.Sleep(waitInternal);
+            } while (DateTime.Now - start < TimeSpan.FromMilliseconds(Timeout));
+            return false;
         }
         
         
