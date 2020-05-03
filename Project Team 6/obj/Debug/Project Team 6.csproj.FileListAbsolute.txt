@@ -11,3 +11,20 @@ C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\bin\Debug\WebDriver.x
 C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\obj\Debug\Project Team 6.csproj.CopyComplete
 C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\obj\Debug\Project_Team_6.dll
 C:\Users\nadia\RiderProjects\Project Team 6\Project Team 6\obj\Debug\Project_Team_6.pdb
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\Project_Team_6.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\Project_Team_6.pdb
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\nunit.framework.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\WebDriver.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\WebDriver.Support.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\nunit.framework.xml
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\WebDriver.xml
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\obj\Debug\Project Team 6.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\obj\Debug\Project Team 6.csproj.CopyComplete
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\obj\Debug\Project_Team_6.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\obj\Debug\Project_Team_6.pdb
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\nunit.engine.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\nunit.engine.api.dll
+C:\Users\HP\source\repos\Team_6\Team-6-Project\Project Team 6\bin\Debug\nunit.framework.pdb
